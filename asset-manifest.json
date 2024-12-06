@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chromakopia-new/static/css/main.0e2b08c1.css",
+    "main.js": "/chromakopia-new/static/js/main.bac1e07d.js",
+    "static/js/488.5b325138.chunk.js": "/chromakopia-new/static/js/488.5b325138.chunk.js",
+    "static/media/chromakopia-album.jpg": "/chromakopia-new/static/media/chromakopia-album.6e4776cf4bc70052b259.jpg",
+    "index.html": "/chromakopia-new/index.html",
+    "main.0e2b08c1.css.map": "/chromakopia-new/static/css/main.0e2b08c1.css.map",
+    "main.bac1e07d.js.map": "/chromakopia-new/static/js/main.bac1e07d.js.map",
+    "488.5b325138.chunk.js.map": "/chromakopia-new/static/js/488.5b325138.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e2b08c1.css",
+    "static/js/main.bac1e07d.js"
+  ]
+}
