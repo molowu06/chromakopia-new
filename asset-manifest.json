@@ -1,16 +1,29 @@
 {
   "files": {
     "main.css": "/chromakopia-new/static/css/main.0e2b08c1.css",
-    "main.js": "/chromakopia-new/static/js/main.bac1e07d.js",
+    "main.js": "/chromakopia-new/static/js/main.72666140.js",
     "static/js/488.5b325138.chunk.js": "/chromakopia-new/static/js/488.5b325138.chunk.js",
+    "static/media/tyler-mask.jpg": "/chromakopia-new/static/media/tyler-mask.d95e5f9a93efbb6a53e3.jpg",
+    "static/media/darling-i.jpg": "/chromakopia-new/static/media/darling-i.a6d9f203d5196dd44a74.jpg",
+    "static/media/tyler-baudelaire.jpg": "/chromakopia-new/static/media/tyler-baudelaire.273d1eeccc4920f9da1d.jpg",
+    "static/media/flower-boy.jpg": "/chromakopia-new/static/media/flower-boy.bbd1dd13be236ec2b99c.jpg",
+    "static/media/chur bomb.jpg": "/chromakopia-new/static/media/chur bomb.203cb0269e6c8ba400eb.jpg",
+    "static/media/bonita-image.jpg": "/chromakopia-new/static/media/bonita-image.10ff4e7e173f167dc338.jpg",
+    "static/media/early-tyler.jpg": "/chromakopia-new/static/media/early-tyler.f118775b63656badfb5c.jpg",
+    "static/media/young-tyler.jpg": "/chromakopia-new/static/media/young-tyler.ef93251137fced3090f4.jpg",
+    "static/media/tyler-creator.jpg": "/chromakopia-new/static/media/tyler-creator.298126f8617ce55d400f.jpg",
+    "static/media/igor.jpg": "/chromakopia-new/static/media/igor.2299b00845e80faee00f.jpg",
+    "static/media/tomorrow-pic.jpg": "/chromakopia-new/static/media/tomorrow-pic.ae5849440737d153e32f.jpg",
+    "static/media/ace_creator.jpg": "/chromakopia-new/static/media/ace_creator.06ac640b3c3157a1b825.jpg",
+    "static/media/producing.jpg": "/chromakopia-new/static/media/producing.584fe5564aaae6fcf459.jpg",
     "static/media/chromakopia-album.jpg": "/chromakopia-new/static/media/chromakopia-album.6e4776cf4bc70052b259.jpg",
     "index.html": "/chromakopia-new/index.html",
     "main.0e2b08c1.css.map": "/chromakopia-new/static/css/main.0e2b08c1.css.map",
-    "main.bac1e07d.js.map": "/chromakopia-new/static/js/main.bac1e07d.js.map",
+    "main.72666140.js.map": "/chromakopia-new/static/js/main.72666140.js.map",
     "488.5b325138.chunk.js.map": "/chromakopia-new/static/js/488.5b325138.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e2b08c1.css",
-    "static/js/main.bac1e07d.js"
+    "static/js/main.72666140.js"
   ]
 }
